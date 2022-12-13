@@ -4,7 +4,6 @@
 ## Team Members:
 
 - Saptak Bhadra
-
 - Venkata Siva Sai Mahendra Kanikicherla
 - Utsa Rabbani
 - Aashish Anand Cullopulli
@@ -51,3 +50,5 @@ List of Features-
 1. List all places where International cuisines are available.
 2. List places like parks or prime locations to hang out.
 3. Allow ordering of groceries through the website.
+4. List various events that are held accross Toronto.
+5. Providing canada themed mechandise. 
